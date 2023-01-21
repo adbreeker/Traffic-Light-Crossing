@@ -8,5 +8,8 @@ Then just watch how full automated prioritised traffic light crossing manage lig
 *To download app just go to /Builds and download crossing2.apk*
 
 
-https://user-images.githubusercontent.com/111668308/213840969-4fe3414d-f116-4a5d-8233-7a591c99f796.mp4
+
+
+
+https://user-images.githubusercontent.com/111668308/213841046-7052a0d6-76b6-44b0-a183-8e661e923ea7.mp4
 
